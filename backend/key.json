@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "levo-12859",
+  "private_key_id": "65e6d504e3cde509025ab252e76620a869a32703",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDUURzul8lVURQR\niysksRW6ZRFVvvS03ERYra9RsuKn5H9C1Kh9GoDuiyzz8yXLcMp6KVlRjoV3tDGb\n85rKqp5EE+Xzc8JuCZ9rRAnaqvToh4554Z4G9cLC2/CK4J5O7nERezQyIBEEvVKV\n08hwsLVC/SP2aveYx1YaKnUuPSUAPCrRognpBRIjS4yHXvhQL2dsPyQZMo3rWgsg\nqDbJ0ivp3wdwZuTR8NH6ir6AL3t2d6zgkJ7BbgXsyxBxpOgLnKpfVyDWyCGhIef+\nawHONFEhpjCDazNRSEsNQcaecj0xsSCfla32eEF/lFWv6wD3MlEib9HFPZ3+Z9tu\nuUtmoJz9AgMBAAECggEAA7+O2DN7zXLJ/OlNEK/Dp2/DV5UwcsT0u/ANCU80Kyyg\nhoiElPjTz+JLH99qCmZqXK/AMO1oM83Nlmg9klhixObpB1xC0XiABP/FgMPF4RkL\njeFKzeqmzpPdckY25UPWYS2gpUXlpwTEoXqErmCgQpd/fAk1Z9AVGA8p1HAl6BQf\nmsBHpsVh1Jc5mm5eMqlArHucBckVjoQAK/qdewK2rmTiDiD9yUMaP4K+CPx9wzKe\nhzEM4ssFX/Eqd2EvWEW46Sz48MgdT5YwOsw7pXH++56bQMbEiVCvLpWaf8Ov1Ua8\nFXSREiuRubuT6hEis5cV7z8Sw+kzhVjQ0tduCDMg4QKBgQD2jxNYYp3dRbZTPV6X\ntb+JH96oPUpaTLNfxqygsg6gj13hy/IufdgAR4MEropYVaZ3kYYxCCGqjdICTZXR\nUaScqywcbBeW4pI656aKQJe08Hgf0FzpsTTjZ0LLt8Tylh7iK2K5z576xb5Tog8w\nGnp+oC1KtPrKDjKBw/z8KieCRQKBgQDccmAjr1REI31I2n3qOMLEeB/DdeG1lsiX\ncUMsaZZ5oPZRAdFwky5j0VhdnN5HQz/mXDA/SyFlHVwXF4YwSqjNHi2ljMBzzJyM\nyap7Kh+AnpL9JMeixobLKCU9a2SV2Erq/wHwOi2Zod9hDdj9niXlBXdoFyCocx73\nD1qKLIG3WQKBgQCF/A5JM54SBrYj2e+zhcLGI5l914C2PYQkgfSBhwFH42DjOU8s\nUJq23CWov6jShAjoZR6FOqQA6Py836iQjUtlD+fyshLHnexVMllgO+W1IBBHSZWU\nMQZKpWy5A+503Xt+8JC/5MHCCP96t1CFlX4Hnce/F0ZJ0xlDR1wNNGMv+QKBgHXp\nP38W0q23hdWn+F2FirfnwKWdseKdCiHm1RU2TOQ1skpV/J6IOvHtEaTQuRvI3q7q\ndGwGVZBuCcnYLVA7Ptqn36aDCJVnxfyQCX3jZAI5z0lTmOx537Nef7zAaoazsC7N\nw02o8KcSLBcPfxb4tjAvolSsui0fllpzfewWLjPRAoGAPjY/oXQhf3aXbx0UrMDc\n7vrUadbuUy7ObZNYQkmC31dx8o8W9NrtvzPWs+4bA+3wvRxBGIC7yIsGeR+D0a+9\nmK1NzEaZaxfMl3yq3vctcP3EcWExwlcImbEc8iqrUw20vQqnujjsWcVA3dJj4DMZ\n/XR+DepA7GqqLxxhnib8ZOY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "levo2337@levo-12859.iam.gserviceaccount.com",
+  "client_id": "116761126407576888269",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/levo2337%40levo-12859.iam.gserviceaccount.com"
+}

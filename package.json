@@ -1,39 +1,17 @@
 {
-  "name": "koalerplate",
-  "homepage": "https://github.com/dbalas/koalerplate.git",
-  "description": "A simple Koa 2 boilerplate for API's using ES6.",
-  "bugs": {
-    "url": "https://github.com/dbalas/koalerplate/issues/new"
-  },
-  "keywords": [
-    "koa",
-    "koa2",
-    "boilerplate",
-    "koalerplate",
-    "api",
-    "es6"
-  ],
-  "repository": "git@github.com:dbalas/koalerplate.git",
-  "author": "Daniel Balastegui",
-  "license": "MIT",
-  "version": "1.2.2",
-  "main": "index.js",
+  "name": "koaproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eslintrc.js",
   "scripts": {
-    "dev": "nodemon index",
-    "start": "cross-env NODE_ENVIRONMENT=production node index"
+    "start": "concurrently --kill-others \"npm run backend\" \"npm run frontend\"",
+    "backend": "cd backend && npm run dev",
+    "frontend":"cd client && npm start",
+    "build": "cd client && npm run build"
   },
-  "dependencies": {
-    "@koa/cors": "^2.2.2",
-    "cross-env": "^5.2.0",
-    "dotenv": "^6.0.0",
-    "koa": "^2.5.2",
-    "koa-bodyparser": "^4.2.1",
-    "koa-helmet": "^4.0.0",
-    "koa-logger": "^3.2.0",
-    "koa-respond": "^1.0.1",
-    "koa-router": "^7.4.0"
-  },
+  "author": "liam",
+  "license": "ISC",
   "devDependencies": {
-    "nodemon": "^1.18.4"
+    "concurrently": "^4.1.0"
   }
 }
